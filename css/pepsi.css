@@ -198,11 +198,13 @@ header ul li a:hover{
     }
 
     header{
+        display: flex;
         padding: 30px;
     }
 
     header ul{
         margin: 0;
+        display: none;
     }
 
     header a img{
